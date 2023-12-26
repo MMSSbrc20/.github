@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.1/static/1080x360.webp">
+<img width="960" src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.1/static/1080x360.webp">
 
 <h1 align="center"><a target="_blank" href="https://www.mmss.space/">MMSS</a></h1>
 
@@ -8,9 +8,7 @@ Globally uniting around art, fashion, and youth-driven culture. Meow 🐾
 </p>
 
 
-<p align="center">
 <a href="https://unisat.io/brc20/MMSS">$MMSS is a BRC-20 token</a> launched on Bitcoin on November 19, 2023 by <a href="https://twitter.com/shhan1211">Shhan</a>, who is the creator of <a href="https://twitter.com/MimicShhans">Mimic Shhans NFT</a>, and Shhan handed over all MMSS social media to <a href="https://twitter.com/shhan1211/status/1729819223005036717">community</a>.
-</p>
 
 <h3 align="center">☎️ Community 🐈‍⬛</h3>
 
