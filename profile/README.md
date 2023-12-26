@@ -66,6 +66,12 @@ Globally uniting around art, fashion, and youth-driven culture. Meow 🐾
   </tr>
   <tr>
     <td align="center" width="200px">
+      <a target="_blank" href="https://www.gate.io/trade/MMSS_USDT">
+        <img src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.3/static/gate.png" alt="Gate logo" width="40"><br>
+        <sub>Gate.io</sub>
+      </a>
+    </td>
+    <td align="center" width="200px">
       <a target="_blank" href="https://www.lbank.com/trade/mmss_usdt/">
         <img src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.3/static/lbank.png" alt="LBank logo" width="40"><br>
         <sub>LBank</sub>
