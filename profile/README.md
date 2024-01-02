@@ -90,6 +90,14 @@ Globally uniting around art, fashion, and youth-driven culture. Meow 🐾
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200px">
+      <a target="_blank" href="https://www.websea.com/en/trade/MMSS-USDT">
+        <img src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.3/static/websea.png" alt="Websea logo" width="40"><br>
+        <sub>Websea</sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
