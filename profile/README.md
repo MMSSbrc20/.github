@@ -97,6 +97,12 @@ Globally uniting around art, fashion, and youth-driven culture. Meow 🐾
         <sub>Websea</sub>
       </a>
     </td>
+    <td align="center" width="200px">
+      <a target="_blank" href="https://www.novadax.com.br/product/orderbook?pair=MMSS_BRL">
+        <img src="https://cdn.jsdelivr.net/gh/MMSSbrc20/.github@v0.0.4/static/novadax.png" alt="NovaDAX logo" width="40"><br>
+        <sub>NovaDAX</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
